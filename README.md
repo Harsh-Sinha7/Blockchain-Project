@@ -1,5 +1,5 @@
 # Blockchain-Project
-Implementation of BlockChain Using Singly Linked List
+Implementation of BlockChain Using Linked List
 
 I have implemented a Private Blockchain using Linked List in C++. A private Blockchain is a one which is governed by a single entity, 
 who is responsible for adding new members to the Blockchain. In the case of my Project it is, the Rserve Bank of India.
